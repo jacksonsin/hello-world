@@ -1,2 +1,3 @@
 # hello-world
 This is to initialize a new project
+I am editing the README file. Adding some more details about the project description.
